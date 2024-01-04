@@ -1,0 +1,193 @@
+C:\Users\user\AppData\Local\Temporary Projects\Quanlychitieu\bin\Debug\Quanlychitieu.exe.config
+C:\Users\user\AppData\Local\Temporary Projects\Quanlychitieu\obj\Debug\Quanlychitieu.csprojResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangky.resources
+C:\Users\user\AppData\Local\Temporary Projects\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangnhap.resources
+C:\Users\user\AppData\Local\Temporary Projects\Quanlychitieu\obj\Debug\Quanlychitieu.Formquanlychitieu.resources
+C:\Users\user\AppData\Local\Temporary Projects\Quanlychitieu\obj\Debug\Quanlychitieu.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\Quanlychitieu\bin\Debug\Quanlychitieu.exe
+C:\Users\user\AppData\Local\Temporary Projects\Quanlychitieu\bin\Debug\Quanlychitieu.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Quanlychitieu\obj\Debug\Quanlychitieu.exe
+C:\Users\user\AppData\Local\Temporary Projects\Quanlychitieu\obj\Debug\Quanlychitieu.pdb
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe.config
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.exe
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.pdb
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.pdb
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csprojResolveAssemblyReference.cache
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangky.resources
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangnhap.resources
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formquanlychitieu.resources
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Properties.Resources.resources
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.GenerateResource.Cache
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthaydoimatkhau.resources
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanthu.resources
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungthu.resources
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanchi.resources
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungchi.resources
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuachitieu.resources
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuathunhap.resources
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoathunhap.resources
+D:\lap trinh csdl (co thao)\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoachitieu.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe.config
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.exe
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.pdb
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.pdb
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csprojResolveAssemblyReference.cache
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangky.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangnhap.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formquanlychitieu.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuachitieu.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuathunhap.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthaydoimatkhau.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanchi.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanthu.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungchi.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungthu.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoachitieu.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoathunhap.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Properties.Resources.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.GenerateResource.Cache
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formlichchitieumau.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxemlich.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formlichchitieu.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formnhaptenlich.resources
+D:\lap trinh csdl (co thao)\tham khao\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoalich.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe.config
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.exe
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.pdb
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.pdb
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csprojResolveAssemblyReference.cache
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangky.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangnhap.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formlichchitieu.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formlichchitieumau.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formnhaptenlich.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formquanlychitieu.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuachitieu.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuathunhap.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthaydoimatkhau.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanchi.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanthu.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungchi.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungthu.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxemlich.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoachitieu.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoalich.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoathunhap.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Properties.Resources.resources
+D:\CNTT_2012\lap trinh csdl (co thao)\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.GenerateResource.Cache
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe.config
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.exe
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.pdb
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.pdb
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csprojResolveAssemblyReference.cache
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangky.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangnhap.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formlichchitieu.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formlichchitieumau.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formnhaptenlich.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formquanlychitieu.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuachitieu.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuathunhap.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthaydoimatkhau.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanchi.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanthu.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungchi.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungthu.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxemlich.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoachitieu.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoalich.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoathunhap.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Properties.Resources.resources
+F:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.GenerateResource.Cache
+I:\BC CO THAO\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe.config
+I:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.exe
+I:\BC CO THAO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.pdb
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe.config
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.pdb
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.AssemblyReference.cache
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangky.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangnhap.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formlichchitieu.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formlichchitieumau.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formnhaptenlich.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formquanlychitieu.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuachitieu.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuathunhap.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthaydoimatkhau.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanchi.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanthu.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungchi.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungthu.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxemlich.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoachitieu.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoalich.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoathunhap.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Properties.Resources.resources
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.GenerateResource.cache
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.CoreCompileInputs.cache
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.exe
+C:\Users\QUOC DAT\Desktop\QUOC DAT\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C# + BÁO CÁO\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.pdb
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe.config
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.pdb
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangky.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangnhap.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formlichchitieu.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formlichchitieumau.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formnhaptenlich.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formquanlychitieu.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuachitieu.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuathunhap.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthaydoimatkhau.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanchi.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanthu.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungchi.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungthu.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxemlich.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoachitieu.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoalich.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoathunhap.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.exe
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.pdb
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ACER\OneDrive\Desktop\QUẢN LÝ CHI TIÊU_NGÔN NGỮ C#\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.CopyComplete
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe.config
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.exe
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\bin\Debug\Quanlychitieu.pdb
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\bin\Debug\System.Data.SqlClient.dll
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\bin\Debug\System.Data.SqlClient.xml
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.AssemblyReference.cache
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangky.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formdangnhap.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formlichchitieu.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formlichchitieumau.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formnhaptenlich.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formquanlychitieu.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuachitieu.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formsuathunhap.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthaydoimatkhau.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanchi.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemkhoanthu.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungchi.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formthemnoidungthu.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxemlich.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoachitieu.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoalich.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Formxoathunhap.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.Properties.Resources.resources
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.GenerateResource.cache
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.CoreCompileInputs.cache
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.csproj.CopyComplete
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.exe
+E:\.NET\QUẢN LÝ CHI TIÊU\QUẢN LÝ CHI TIÊU\Quanlychitieu\Quanlychitieu\obj\Debug\Quanlychitieu.pdb
